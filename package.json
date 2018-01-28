@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_sms_twilio",
+  "version": "1.0.0",
+  "description": "This repository contain the code for sending Text Message from your application.",
+  "main": "app.js",
+  "dependencies": {
+    "twilio": "^3.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "twilio",
+    "SMS"
+  ],
+  "author": "codeamar",
+  "license": "MIT"
+}
