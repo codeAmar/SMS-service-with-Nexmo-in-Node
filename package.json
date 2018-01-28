@@ -4,7 +4,12 @@
   "description": "This repository contain the code for sending Text Message from your application.",
   "main": "app.js",
   "dependencies": {
-    "twilio": "^3.11.1"
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "dotenv": "^4.0.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "nexmo": "^2.2.0"
   },
   "devDependencies": {},
   "scripts": {
