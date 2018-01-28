@@ -9,7 +9,8 @@
     "dotenv": "^4.0.0",
     "ejs": "^2.5.7",
     "express": "^4.16.2",
-    "nexmo": "^2.2.0"
+    "nexmo": "^2.2.0",
+    "ngrok": "^2.2.25"
   },
   "devDependencies": {},
   "scripts": {
