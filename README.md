@@ -7,12 +7,11 @@ This repository contain the code for sending and receiving Text Message from you
 
 - Create a file .env in the root directory of project and paste the below content.
 
-
-    ```sh
+```sh
 YOUR_API_KEY=<change this with your nexmo api key>
 YOUR_API_SECRET=<change this with your nexmo api secret>
 NEXMO_FROM_NUMBER=<change it with your nexmo phone number>
-    ```
+ ```
 
 - you can run command `node app.js` after you get the secret and app key from nexmo website.
 
